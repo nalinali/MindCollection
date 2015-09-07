@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/BaseOrange"
+    android:paddingTop="30dp"
+    android:paddingBottom="30dp"
+    android:paddingLeft="20dp"
+    android:paddingRight="20dp"
+    android:orientation="vertical" >
+    
+    <TextView 
+        style="@style/TF.14.BaseGray"
+        android:text="@string/info_help"
+        android:gravity="center"
+        android:textColor="@android:color/white"
+        />
+
+</LinearLayout>

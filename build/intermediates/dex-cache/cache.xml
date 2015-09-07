@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\p_android\SiteCrawl\libs\MiPush_SDK_Client_2_2_12_sdk.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="82f425243792aac3cbf972058c9e6e3b7d517999">
+        <dex dex="D:\p_android\SiteCrawl\build\intermediates\pre-dexed\debug\MiPush_SDK_Client_2_2_12_sdk-e95bfe205775b724e25031d7f527534f3b7de1fd.jar" />
+    </item>
+    <item
+        jar="D:\p_android\SiteCrawl\libs\umeng-analytics-v5.2.4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0f9eccf79ae6006e4346725b09114182dca0c023">
+        <dex dex="D:\p_android\SiteCrawl\build\intermediates\pre-dexed\debug\umeng-analytics-v5.2.4-eda0471d1049847b75d00ae405163b75337c88b4.jar" />
+    </item>
+    <item
+        jar="D:\p_android\SiteCrawl\libs\umeng-update-v2.4.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ee700e317f574886dc0a236b801f219df6fbd26d">
+        <dex dex="D:\p_android\SiteCrawl\build\intermediates\pre-dexed\debug\umeng-update-v2.4.2-3fcd07bf7cffbc75ab2543ed8f923df65bd71013.jar" />
+    </item>
+    <item
+        jar="D:\p_android\SiteCrawl\libs\jsoup-1.8.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3d57e95c0f150b885ccdbda7a12bef353fd31d02">
+        <dex dex="D:\p_android\SiteCrawl\build\intermediates\pre-dexed\debug\jsoup-1.8.1-78bdc85bcfe41e6421dbdbbf86f540ba820787f9.jar" />
+    </item>
+    <item
+        jar="D:\p_android\SiteCrawl\libs\android-support-v4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5896b0a4e377ac4242eb2bc785220c1c4fc052f4">
+        <dex dex="D:\p_android\SiteCrawl\build\intermediates\pre-dexed\debug\android-support-v4-3400b7a3751ebb5428525760947bff467bb26d9c.jar" />
+    </item>
+    <item
+        jar="D:\p_android\SiteCrawl\libs\nineoldandroids-2.4.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="59f19e43354d32de831379c23ce03bb259a4c2b7">
+        <dex dex="D:\p_android\SiteCrawl\build\intermediates\pre-dexed\debug\nineoldandroids-2.4.0-76e947244db2740f20ac454f8b50736f37d0f4fb.jar" />
+    </item>
+    <item
+        jar="D:\p_android\SiteCrawl\libs\svg-android.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="da90ccda68d4c02a84b9cb01526da382522c7b0d">
+        <dex dex="D:\p_android\SiteCrawl\build\intermediates\pre-dexed\debug\svg-android-1327ef1d31ebecc6a0257efd2c824fc052f9154a.jar" />
+    </item>
+    <item
+        jar="D:\p_android\SiteCrawl\libs\android-query-full.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4055bed8ed6f6aa573fa3e7d979c66101c48e182">
+        <dex dex="D:\p_android\SiteCrawl\build\intermediates\pre-dexed\debug\android-query-full-a0adf96a071f4d281885c432a61720c891acd7e2.jar" />
+    </item>
+
+</items>

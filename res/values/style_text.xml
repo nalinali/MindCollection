@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="TF.12.BaseGray" parent="@android:style/TextAppearance.Medium">
+        <item name="android:textColor">@color/BaseGray</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+    <style name="TF.12.W.BaseGray" parent="TF.12.BaseGray">
+        <item name="android:layout_width">wrap_content</item>
+    </style>
+
+    <style name="TF.14.BaseGray" parent="TF.12.BaseGray">
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <style name="TF.14.W.BaseGray" parent="TF.14.BaseGray">
+        <item name="android:layout_width">wrap_content</item>
+    </style>
+
+    <style name="TF.16.BaseGray" parent="TF.12.BaseGray">
+        <item name="android:textSize">16sp</item>
+    </style>
+
+    <style name="TF.16.W.BaseGray" parent="TF.16.BaseGray">
+        <item name="android:layout_width">wrap_content</item>
+    </style>
+
+    <style name="TF.18.BaseGray" parent="TF.12.BaseGray">
+        <item name="android:textSize">18sp</item>
+    </style>
+
+    <style name="TF.18.W.BaseGray" parent="TF.18.BaseGray">
+        <item name="android:layout_width">wrap_content</item>
+    </style>
+
+    <style name="TF.20.BaseGray" parent="TF.12.BaseGray">
+        <item name="android:textSize">20sp</item>
+    </style>
+
+    <style name="TF.20.W.BaseGray" parent="TF.20.BaseGray">
+        <item name="android:layout_width">wrap_content</item>
+    </style>
+
+    <style name="TF.22.BaseGray" parent="TF.12.BaseGray">
+        <item name="android:textSize">22sp</item>
+    </style>
+
+    <style name="TF.22.W.BaseGray" parent="TF.22.BaseGray">
+        <item name="android:layout_width">wrap_content</item>
+    </style>
+
+    <style name="TF.24.BaseGray" parent="TF.12.BaseGray">
+        <item name="android:textSize">24sp</item>
+    </style>
+
+    <style name="TF.24.W.BaseGray" parent="TF.24.BaseGray">
+        <item name="android:layout_width">wrap_content</item>
+    </style>
+
+    <style name="TF.26.BaseGray" parent="TF.12.BaseGray">
+        <item name="android:textSize">26sp</item>
+    </style>
+
+    <style name="TF.26.W.BaseGray" parent="TF.26.BaseGray">
+        <item name="android:layout_width">wrap_content</item>
+    </style>
+
+    <style name="TF.28.BaseGray" parent="TF.12.BaseGray">
+        <item name="android:textSize">28sp</item>
+    </style>
+
+    <style name="TF.28.W.BaseGray" parent="TF.28.BaseGray">
+        <item name="android:layout_width">wrap_content</item>
+    </style>
+
+    <style name="TF.30.BaseGray" parent="TF.12.BaseGray">
+        <item name="android:textSize">30sp</item>
+    </style>
+
+    <style name="TF.30.W.BaseGray" parent="TF.30.BaseGray">
+        <item name="android:layout_width">wrap_content</item>
+    </style>
+
+    <style name="TF.12.BaseOrange" parent="@android:style/TextAppearance.Medium">
+        <item name="android:textColor">@color/BaseOrange</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+    <style name="TF.12.W.BaseOrange" parent="TF.12.BaseOrange">
+        <item name="android:layout_width">wrap_content</item>
+    </style>
+
+    <style name="TF.14.BaseOrange" parent="TF.12.BaseOrange">
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <style name="TF.14.W.BaseOrange" parent="TF.14.BaseOrange">
+        <item name="android:layout_width">wrap_content</item>
+    </style>
+
+    <style name="TF.16.BaseOrange" parent="TF.12.BaseOrange">
+        <item name="android:textSize">16sp</item>
+    </style>
+
+    <style name="TF.16.W.BaseOrange" parent="TF.16.BaseOrange">
+        <item name="android:layout_width">wrap_content</item>
+    </style>
+
+    <style name="TF.18.BaseOrange" parent="TF.12.BaseOrange">
+        <item name="android:textSize">18sp</item>
+    </style>
+
+    <style name="TF.18.W.BaseOrange" parent="TF.18.BaseOrange">
+        <item name="android:layout_width">wrap_content</item>
+    </style>
+
+    <style name="TF.20.BaseOrange" parent="TF.12.BaseOrange">
+        <item name="android:textSize">20sp</item>
+    </style>
+
+    <style name="TF.20.W.BaseOrange" parent="TF.20.BaseOrange">
+        <item name="android:layout_width">wrap_content</item>
+    </style>
+
+    <style name="TF.22.BaseOrange" parent="TF.12.BaseOrange">
+        <item name="android:textSize">22sp</item>
+    </style>
+
+    <style name="TF.22.W.BaseOrange" parent="TF.22.BaseOrange">
+        <item name="android:layout_width">wrap_content</item>
+    </style>
+
+    <style name="TF.24.BaseOrange" parent="TF.12.BaseOrange">
+        <item name="android:textSize">24sp</item>
+    </style>
+
+    <style name="TF.24.W.BaseOrange" parent="TF.24.BaseOrange">
+        <item name="android:layout_width">wrap_content</item>
+    </style>
+
+    <style name="TF.26.BaseOrange" parent="TF.12.BaseOrange">
+        <item name="android:textSize">26sp</item>
+    </style>
+
+    <style name="TF.26.W.BaseOrange" parent="TF.26.BaseOrange">
+        <item name="android:layout_width">wrap_content</item>
+    </style>
+
+    <style name="TF.28.BaseOrange" parent="TF.12.BaseOrange">
+        <item name="android:textSize">28sp</item>
+    </style>
+
+    <style name="TF.28.W.BaseOrange" parent="TF.28.BaseOrange">
+        <item name="android:layout_width">wrap_content</item>
+    </style>
+
+    <style name="TF.30.BaseOrange" parent="TF.12.BaseOrange">
+        <item name="android:textSize">30sp</item>
+    </style>
+
+    <style name="TF.30.W.BaseOrange" parent="TF.30.BaseOrange">
+        <item name="android:layout_width">wrap_content</item>
+    </style>
+
+</resources>

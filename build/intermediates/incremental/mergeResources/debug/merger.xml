@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\p_android\SiteCrawl\res"><file name="bg_btn" path="D:\p_android\SiteCrawl\res\drawable\bg_btn.xml" qualifiers="" type="drawable"/><file name="bg_circle_gray" path="D:\p_android\SiteCrawl\res\drawable\bg_circle_gray.xml" qualifiers="" type="drawable"/><file name="progress_bar" path="D:\p_android\SiteCrawl\res\drawable\progress_bar.xml" qualifiers="" type="drawable"/><file name="umeng_common_gradient_green" path="D:\p_android\SiteCrawl\res\drawable\umeng_common_gradient_green.xml" qualifiers="" type="drawable"/><file name="umeng_common_gradient_orange" path="D:\p_android\SiteCrawl\res\drawable\umeng_common_gradient_orange.xml" qualifiers="" type="drawable"/><file name="umeng_common_gradient_red" path="D:\p_android\SiteCrawl\res\drawable\umeng_common_gradient_red.xml" qualifiers="" type="drawable"/><file name="umeng_update_button_cancel_bg_focused" path="D:\p_android\SiteCrawl\res\drawable\umeng_update_button_cancel_bg_focused.xml" qualifiers="" type="drawable"/><file name="umeng_update_button_cancel_bg_normal" path="D:\p_android\SiteCrawl\res\drawable\umeng_update_button_cancel_bg_normal.xml" qualifiers="" type="drawable"/><file name="umeng_update_button_cancel_bg_selector" path="D:\p_android\SiteCrawl\res\drawable\umeng_update_button_cancel_bg_selector.xml" qualifiers="" type="drawable"/><file name="umeng_update_button_cancel_bg_tap" path="D:\p_android\SiteCrawl\res\drawable\umeng_update_button_cancel_bg_tap.xml" qualifiers="" type="drawable"/><file name="umeng_update_button_check_selector" path="D:\p_android\SiteCrawl\res\drawable\umeng_update_button_check_selector.xml" qualifiers="" type="drawable"/><file name="umeng_update_button_close_bg_selector" path="D:\p_android\SiteCrawl\res\drawable\umeng_update_button_close_bg_selector.xml" qualifiers="" type="drawable"/><file name="umeng_update_button_ok_bg_focused" path="D:\p_android\SiteCrawl\res\drawable\umeng_update_button_ok_bg_focused.xml" qualifiers="" type="drawable"/><file name="umeng_update_button_ok_bg_normal" path="D:\p_android\SiteCrawl\res\drawable\umeng_update_button_ok_bg_normal.xml" qualifiers="" type="drawable"/><file name="umeng_update_button_ok_bg_selector" path="D:\p_android\SiteCrawl\res\drawable\umeng_update_button_ok_bg_selector.xml" qualifiers="" type="drawable"/><file name="umeng_update_button_ok_bg_tap" path="D:\p_android\SiteCrawl\res\drawable\umeng_update_button_ok_bg_tap.xml" qualifiers="" type="drawable"/><file name="umeng_update_dialog_bg" path="D:\p_android\SiteCrawl\res\drawable\umeng_update_dialog_bg.xml" qualifiers="" type="drawable"/><file name="umeng_update_title_bg" path="D:\p_android\SiteCrawl\res\drawable\umeng_update_title_bg.xml" qualifiers="" type="drawable"/><file name="umeng_update_wifi_disable" path="D:\p_android\SiteCrawl\res\drawable\umeng_update_wifi_disable.png" qualifiers="" type="drawable"/><file name="ani_loading00" path="D:\p_android\SiteCrawl\res\drawable-hdpi\ani_loading00.png" qualifiers="hdpi" type="drawable"/><file name="ani_loading01" path="D:\p_android\SiteCrawl\res\drawable-hdpi\ani_loading01.png" qualifiers="hdpi" type="drawable"/><file name="ani_loading02" path="D:\p_android\SiteCrawl\res\drawable-hdpi\ani_loading02.png" qualifiers="hdpi" type="drawable"/><file name="ani_loading03" path="D:\p_android\SiteCrawl\res\drawable-hdpi\ani_loading03.png" qualifiers="hdpi" type="drawable"/><file name="app_arch" path="D:\p_android\SiteCrawl\res\drawable-hdpi\app_arch.png" qualifiers="hdpi" type="drawable"/><file name="app_digi" path="D:\p_android\SiteCrawl\res\drawable-hdpi\app_digi.png" qualifiers="hdpi" type="drawable"/><file name="app_easymap" path="D:\p_android\SiteCrawl\res\drawable-hdpi\app_easymap.png" qualifiers="hdpi" type="drawable"/><file name="app_fav" path="D:\p_android\SiteCrawl\res\drawable-hdpi\app_fav.png" qualifiers="hdpi" type="drawable"/><file name="app_mj" path="D:\p_android\SiteCrawl\res\drawable-hdpi\app_mj.png" qualifiers="hdpi" type="drawable"/><file name="app_poker" path="D:\p_android\SiteCrawl\res\drawable-hdpi\app_poker.png" qualifiers="hdpi" type="drawable"/><file name="app_select" path="D:\p_android\SiteCrawl\res\drawable-hdpi\app_select.png" qualifiers="hdpi" type="drawable"/><file name="app_taguage" path="D:\p_android\SiteCrawl\res\drawable-hdpi\app_taguage.png" qualifiers="hdpi" type="drawable"/><file name="arrowleft" path="D:\p_android\SiteCrawl\res\drawable-hdpi\arrowleft.png" qualifiers="hdpi" type="drawable"/><file name="btn_add" path="D:\p_android\SiteCrawl\res\drawable-hdpi\btn_add.png" qualifiers="hdpi" type="drawable"/><file name="btn_clear" path="D:\p_android\SiteCrawl\res\drawable-hdpi\btn_clear.png" qualifiers="hdpi" type="drawable"/><file name="btn_day" path="D:\p_android\SiteCrawl\res\drawable-hdpi\btn_day.png" qualifiers="hdpi" type="drawable"/><file name="btn_night" path="D:\p_android\SiteCrawl\res\drawable-hdpi\btn_night.png" qualifiers="hdpi" type="drawable"/><file name="btn_save" path="D:\p_android\SiteCrawl\res\drawable-hdpi\btn_save.png" qualifiers="hdpi" type="drawable"/><file name="btn_share" path="D:\p_android\SiteCrawl\res\drawable-hdpi\btn_share.png" qualifiers="hdpi" type="drawable"/><file name="ic_launcher" path="D:\p_android\SiteCrawl\res\drawable-hdpi\ic_launcher.png" qualifiers="hdpi" type="drawable"/><file name="logo48" path="D:\p_android\SiteCrawl\res\drawable-hdpi\logo48.png" qualifiers="hdpi" type="drawable"/><file name="logo512" path="D:\p_android\SiteCrawl\res\drawable-hdpi\logo512.png" qualifiers="hdpi" type="drawable"/><file name="logo96" path="D:\p_android\SiteCrawl\res\drawable-hdpi\logo96.png" qualifiers="hdpi" type="drawable"/><file name="logo_360" path="D:\p_android\SiteCrawl\res\drawable-hdpi\logo_360.png" qualifiers="hdpi" type="drawable"/><file name="logo_float" path="D:\p_android\SiteCrawl\res\drawable-hdpi\logo_float.png" qualifiers="hdpi" type="drawable"/><file name="mipush_notification" path="D:\p_android\SiteCrawl\res\drawable-hdpi\mipush_notification.png" qualifiers="hdpi" type="drawable"/><file name="mipush_small_notification" path="D:\p_android\SiteCrawl\res\drawable-hdpi\mipush_small_notification.png" qualifiers="hdpi" type="drawable"/><file name="tutorial_essay" path="D:\p_android\SiteCrawl\res\drawable-hdpi\tutorial_essay.png" qualifiers="hdpi" type="drawable"/><file name="tutorial_essay_no_cont" path="D:\p_android\SiteCrawl\res\drawable-hdpi\tutorial_essay_no_cont.png" qualifiers="hdpi" type="drawable"/><file name="tutorial_home" path="D:\p_android\SiteCrawl\res\drawable-hdpi\tutorial_home.png" qualifiers="hdpi" type="drawable"/><file name="tutorial_listicle" path="D:\p_android\SiteCrawl\res\drawable-hdpi\tutorial_listicle.png" qualifiers="hdpi" type="drawable"/><file name="tutorial_sitelist" path="D:\p_android\SiteCrawl\res\drawable-hdpi\tutorial_sitelist.png" qualifiers="hdpi" type="drawable"/><file name="umeng_update_btn_check_off_focused_holo_light" path="D:\p_android\SiteCrawl\res\drawable-hdpi\umeng_update_btn_check_off_focused_holo_light.png" qualifiers="hdpi" type="drawable"/><file name="umeng_update_btn_check_off_holo_light" path="D:\p_android\SiteCrawl\res\drawable-hdpi\umeng_update_btn_check_off_holo_light.png" qualifiers="hdpi" type="drawable"/><file name="umeng_update_btn_check_off_pressed_holo_light" path="D:\p_android\SiteCrawl\res\drawable-hdpi\umeng_update_btn_check_off_pressed_holo_light.png" qualifiers="hdpi" type="drawable"/><file name="umeng_update_btn_check_on_focused_holo_light" path="D:\p_android\SiteCrawl\res\drawable-hdpi\umeng_update_btn_check_on_focused_holo_light.png" qualifiers="hdpi" type="drawable"/><file name="umeng_update_btn_check_on_holo_light" path="D:\p_android\SiteCrawl\res\drawable-hdpi\umeng_update_btn_check_on_holo_light.png" qualifiers="hdpi" type="drawable"/><file name="umeng_update_btn_check_on_pressed_holo_light" path="D:\p_android\SiteCrawl\res\drawable-hdpi\umeng_update_btn_check_on_pressed_holo_light.png" qualifiers="hdpi" type="drawable"/><file name="umeng_update_close_bg_normal" path="D:\p_android\SiteCrawl\res\drawable-hdpi\umeng_update_close_bg_normal.png" qualifiers="hdpi" type="drawable"/><file name="umeng_update_close_bg_tap" path="D:\p_android\SiteCrawl\res\drawable-hdpi\umeng_update_close_bg_tap.png" qualifiers="hdpi" type="drawable"/><file name="ic_launcher" path="D:\p_android\SiteCrawl\res\drawable-mdpi\ic_launcher.png" qualifiers="mdpi" type="drawable"/><file name="ic_launcher" path="D:\p_android\SiteCrawl\res\drawable-xhdpi\ic_launcher.png" qualifiers="xhdpi" type="drawable"/><file name="ic_launcher" path="D:\p_android\SiteCrawl\res\drawable-xxhdpi\ic_launcher.png" qualifiers="xxhdpi" type="drawable"/><file name="activity_apps" path="D:\p_android\SiteCrawl\res\layout\activity_apps.xml" qualifiers="" type="layout"/><file name="activity_browser" path="D:\p_android\SiteCrawl\res\layout\activity_browser.xml" qualifiers="" type="layout"/><file name="activity_essay_list" path="D:\p_android\SiteCrawl\res\layout\activity_essay_list.xml" qualifiers="" type="layout"/><file name="activity_links" path="D:\p_android\SiteCrawl\res\layout\activity_links.xml" qualifiers="" type="layout"/><file name="activity_listicle" path="D:\p_android\SiteCrawl\res\layout\activity_listicle.xml" qualifiers="" type="layout"/><file name="activity_options" path="D:\p_android\SiteCrawl\res\layout\activity_options.xml" qualifiers="" type="layout"/><file name="activity_preface" path="D:\p_android\SiteCrawl\res\layout\activity_preface.xml" qualifiers="" type="layout"/><file name="activity_preview" path="D:\p_android\SiteCrawl\res\layout\activity_preview.xml" qualifiers="" type="layout"/><file name="activity_start" path="D:\p_android\SiteCrawl\res\layout\activity_start.xml" qualifiers="" type="layout"/><file name="activity_stat" path="D:\p_android\SiteCrawl\res\layout\activity_stat.xml" qualifiers="" type="layout"/><file name="activity_tutorial" path="D:\p_android\SiteCrawl\res\layout\activity_tutorial.xml" qualifiers="" type="layout"/><file name="dialog_edit" path="D:\p_android\SiteCrawl\res\layout\dialog_edit.xml" qualifiers="" type="layout"/><file name="dialog_edit_filter" path="D:\p_android\SiteCrawl\res\layout\dialog_edit_filter.xml" qualifiers="" type="layout"/><file name="dialog_input" path="D:\p_android\SiteCrawl\res\layout\dialog_input.xml" qualifiers="" type="layout"/><file name="dialog_loading" path="D:\p_android\SiteCrawl\res\layout\dialog_loading.xml" qualifiers="" type="layout"/><file name="dialog_login" path="D:\p_android\SiteCrawl\res\layout\dialog_login.xml" qualifiers="" type="layout"/><file name="float_get_clipboard" path="D:\p_android\SiteCrawl\res\layout\float_get_clipboard.xml" qualifiers="" type="layout"/><file name="header_help" path="D:\p_android\SiteCrawl\res\layout\header_help.xml" qualifiers="" type="layout"/><file name="head_essays" path="D:\p_android\SiteCrawl\res\layout\head_essays.xml" qualifiers="" type="layout"/><file name="head_listicle" path="D:\p_android\SiteCrawl\res\layout\head_listicle.xml" qualifiers="" type="layout"/><file name="inflate_input" path="D:\p_android\SiteCrawl\res\layout\inflate_input.xml" qualifiers="" type="layout"/><file name="item_article" path="D:\p_android\SiteCrawl\res\layout\item_article.xml" qualifiers="" type="layout"/><file name="item_listicle" path="D:\p_android\SiteCrawl\res\layout\item_listicle.xml" qualifiers="" type="layout"/><file name="item_options" path="D:\p_android\SiteCrawl\res\layout\item_options.xml" qualifiers="" type="layout"/><file name="item_rec_apps" path="D:\p_android\SiteCrawl\res\layout\item_rec_apps.xml" qualifiers="" type="layout"/><file name="item_supported_site" path="D:\p_android\SiteCrawl\res\layout\item_supported_site.xml" qualifiers="" type="layout"/><file name="umeng_common_download_notification" path="D:\p_android\SiteCrawl\res\layout\umeng_common_download_notification.xml" qualifiers="" type="layout"/><file name="umeng_update_dialog" path="D:\p_android\SiteCrawl\res\layout\umeng_update_dialog.xml" qualifiers="" type="layout"/><file name="widget_save" path="D:\p_android\SiteCrawl\res\layout\widget_save.xml" qualifiers="" type="layout"/><file name="activity_apps" path="D:\p_android\SiteCrawl\res\layout-v19\activity_apps.xml" qualifiers="v19" type="layout"/><file name="activity_browser" path="D:\p_android\SiteCrawl\res\layout-v19\activity_browser.xml" qualifiers="v19" type="layout"/><file name="activity_links" path="D:\p_android\SiteCrawl\res\layout-v19\activity_links.xml" qualifiers="v19" type="layout"/><file name="activity_options" path="D:\p_android\SiteCrawl\res\layout-v19\activity_options.xml" qualifiers="v19" type="layout"/><file name="activity_preface" path="D:\p_android\SiteCrawl\res\layout-v19\activity_preface.xml" qualifiers="v19" type="layout"/><file name="activity_preview" path="D:\p_android\SiteCrawl\res\layout-v19\activity_preview.xml" qualifiers="v19" type="layout"/><file name="activity_stat" path="D:\p_android\SiteCrawl\res\layout-v19\activity_stat.xml" qualifiers="v19" type="layout"/><file name="activity_tutorial" path="D:\p_android\SiteCrawl\res\layout-v19\activity_tutorial.xml" qualifiers="v19" type="layout"/><file name="umeng_common_download_notification" path="D:\p_android\SiteCrawl\res\layout-v9\umeng_common_download_notification.xml" qualifiers="v9" type="layout"/><file name="menu_browser" path="D:\p_android\SiteCrawl\res\menu\menu_browser.xml" qualifiers="" type="menu"/><file name="menu_essays" path="D:\p_android\SiteCrawl\res\menu\menu_essays.xml" qualifiers="" type="menu"/><file name="menu_listicle" path="D:\p_android\SiteCrawl\res\menu\menu_listicle.xml" qualifiers="" type="menu"/><file name="menu_preview_day" path="D:\p_android\SiteCrawl\res\menu\menu_preview_day.xml" qualifiers="" type="menu"/><file name="menu_preview_night" path="D:\p_android\SiteCrawl\res\menu\menu_preview_night.xml" qualifiers="" type="menu"/><file name="menu_stats" path="D:\p_android\SiteCrawl\res\menu\menu_stats.xml" qualifiers="" type="menu"/><file name="start" path="D:\p_android\SiteCrawl\res\menu\start.xml" qualifiers="" type="menu"/><file name="btn_add" path="D:\p_android\SiteCrawl\res\raw\btn_add.svg" qualifiers="" type="raw"/><file name="btn_all" path="D:\p_android\SiteCrawl\res\raw\btn_all.svg" qualifiers="" type="raw"/><file name="btn_bottom" path="D:\p_android\SiteCrawl\res\raw\btn_bottom.svg" qualifiers="" type="raw"/><file name="btn_del" path="D:\p_android\SiteCrawl\res\raw\btn_del.svg" qualifiers="" type="raw"/><file name="btn_edit" path="D:\p_android\SiteCrawl\res\raw\btn_edit.svg" qualifiers="" type="raw"/><file name="btn_link" path="D:\p_android\SiteCrawl\res\raw\btn_link.svg" qualifiers="" type="raw"/><file name="btn_list" path="D:\p_android\SiteCrawl\res\raw\btn_list.svg" qualifiers="" type="raw"/><file name="btn_listicle" path="D:\p_android\SiteCrawl\res\raw\btn_listicle.svg" qualifiers="" type="raw"/><file name="btn_options" path="D:\p_android\SiteCrawl\res\raw\btn_options.svg" qualifiers="" type="raw"/><file name="btn_save" path="D:\p_android\SiteCrawl\res\raw\btn_save.svg" qualifiers="" type="raw"/><file name="btn_send" path="D:\p_android\SiteCrawl\res\raw\btn_send.svg" qualifiers="" type="raw"/><file name="btn_statistics" path="D:\p_android\SiteCrawl\res\raw\btn_statistics.svg" qualifiers="" type="raw"/><file name="btn_top" path="D:\p_android\SiteCrawl\res\raw\btn_top.svg" qualifiers="" type="raw"/><file name="btn_upload" path="D:\p_android\SiteCrawl\res\raw\btn_upload.svg" qualifiers="" type="raw"/><file name="btn_upload_already" path="D:\p_android\SiteCrawl\res\raw\btn_upload_already.svg" qualifiers="" type="raw"/><file name="event_main" path="D:\p_android\SiteCrawl\res\raw\event_main.svg" qualifiers="" type="raw"/><file name="preface" path="D:\p_android\SiteCrawl\res\raw\preface.svg" qualifiers="" type="raw"/><file name="t_app_name" path="D:\p_android\SiteCrawl\res\raw\t_app_name.svg" qualifiers="" type="raw"/><file path="D:\p_android\SiteCrawl\res\values\array.xml" qualifiers=""><string-array name="upload_privacy">
+        <item>公开上传文章</item>
+        <item>隐藏上传文章</item>
+    </string-array><string-array name="result_words">
+        <item>70%-100%  脑这样还闹哪样 \n赶紧搭档芙蓉姐姐竞选\n美国总统吧</item>
+		<item>50%-70%   “满脑肥肠”\n啥意思 \n朋友啊朋友你可曾想起了我</item>
+		<item>30%-50%  “脑积水” \n…请立即找寻“他瓜哥”\n教授给蒸发蒸发升华升华 </item>
+		<item>20%-30%  \n如此水! so water？</item>
+		<item>10%-20% \n恭喜你洗脱了“水货”嫌疑</item>
+		<item>0%-10% \n绝对点你个赞！\n真心赞你个头！</item>
+    </string-array><string-array name="upload_tag">
+        <item>智能提取标签</item>
+        <item>不使用智能标签</item>
+    </string-array><string-array name="upload_source">
+        <item>附加来源网站</item>
+        <item>不要添加来源网站</item>
+    </string-array><string-array name="message_options">
+        <item>接收推送消息</item>
+        <item>不接收推送消息</item>
+    </string-array><string-array name="initial_submenu_options">
+        <item>用于备份和自动整理你收藏的文章</item>
+        <item>备份点藏的文章（需登录Taguage）</item>
+        <item>接收推送消息</item>
+        <item>保存文章后自动弹出文集选择对话框</item>
+        <item>关闭</item>
+        <item>删除所有收藏文章（慎用）</item>
+        <item>新手必看</item>
+        <item>“掌”控思维必备</item>
+    </string-array><string-array name="backup_params">
+        <item>备份上传方式</item>
+        <item>上传文章是否公开</item>
+        <item>备份时是否智能提取标签</item>
+        <item>备份时标签是否包含来源网站</item>
+        <item>备份时智能添加标签过滤词</item>
+    </string-array><string-array name="listicle_options">
+        <item>保存文章后自动弹出文集选择对话框</item>
+        <item>保存文章后不弹出文集选择对话框</item>
+    </string-array><string-array name="app_names">
+        <item>Taguage（他瓜哥）</item>
+        <item>思维简图</item>
+        <item>思维点藏</item>
+        <item>建筑史复习</item>
+        <item>记数专家</item>
+        <item>扑克记忆大师</item>
+        <item>麻将记忆大师</item>
+        <item>选择日记</item>
+    </string-array><string-array name="app_summaries">
+        <item>用思维地图的方式自动为你整理保存在本软件中的文字资料。</item>
+        <item>用！就能创建思维导图。手机上最快的思维导图软件。</item>
+        <item>给一个链接就帮你把好文章全文保存到本地收藏。</item>
+        <item>建筑史考研的复习工具，收录老八校多年考研真题。</item>
+        <item>帮助记忆术练习者管理自己的数字桩。</item>
+        <item>通过数字桩帮助记忆扑克。</item>
+        <item>通过数字桩帮助记忆麻将。</item>
+        <item>选择困难症的解药。</item>
+    </string-array><string-array name="upload_mode">
+        <item>自动上传</item>
+        <item>手工上传</item>
+    </string-array><string-array name="initial_listicles">
+        <item>最值得阅读的100篇文章</item>
+        <item>冷知识合集</item>
+        <item>小短文大故事</item>
+    </string-array><string-array name="menu_options">
+        <item>设置Taguage账户</item>
+        <item>备份上传设置</item>
+        <item>消息设置</item>
+        <item>文集设置</item>
+        <item>悬浮窗口</item>
+        <item>清空所有</item>
+        <item>新手入门</item>
+        <item>思维大爆炸系列软件</item>
+    </string-array><string-array name="float_options">
+        <item>关闭</item>
+        <item>开启</item>
+    </string-array></file><file path="D:\p_android\SiteCrawl\res\values\color.xml" qualifiers=""><color name="BaseOrange">#f39700</color><color name="BaseGray">#b4b5b5</color><color name="BASE">#ffffff</color></file><file path="D:\p_android\SiteCrawl\res\values\dimens.xml" qualifiers=""><dimen name="activity_vertical_margin">16dp</dimen><dimen name="activity_horizontal_margin">16dp</dimen></file><file path="D:\p_android\SiteCrawl\res\values\key.xml" qualifiers=""><string name="key_data_ver">key_data_ver</string><string name="key_tutorial_essaylist_no_cont">key_tutorial_essaylist_no_cont</string><string name="key_taguage_ac">key_taguage_ac</string><string name="key_backup_manual">key_backup_manual</string><string name="key_dont_send_message">key_dont_send_message</string><string name="key_tutorial_intro">key_tutorial_intro</string><string name="key_user_local_pass">key_user_local_pass</string><string name="key_no_listicle_dialog">key_no_listicle_dialog</string><string name="key_taguage_uid">key_taguage_uid</string><string name="key_backup_simple_tag">key_backup_simple_tag</string><string name="key_tutorial_sitelist">key_tutorial_sitelist</string><string name="key_backup_filter">key_backup_filter</string><string name="key_taguage_nick">key_taguage_nick</string><string name="key_tutorial_home">key_tutorial_home</string><string name="key_open_float_window">key_open_float_window</string><string name="key_backup_source">key_backup_source</string><string name="key_taguage_used_emails">key_taguage_used_emails</string><string name="key_taguage_token">key_taguage_token</string><string name="key_taguage_pw">key_taguage_pw</string><string name="key_taguage_expire">key_taguage_expire</string><string name="key_tutorial_listicle">key_tutorial_listicle</string><string name="key_backup_private">key_backup_private</string><string name="key_hv_initial_listicle">key_hv_initial_listicle</string><string name="key_tutorial_essaylist">key_tutorial_essaylist</string></file><file path="D:\p_android\SiteCrawl\res\values\strings.xml" qualifiers=""><string name="ptitle_preview">文章内容</string><string name="ptitle_apps">思维大爆炸系列</string><string name="hint_input_link">请录推荐网站或微信文章网址</string><string name="attach_title_saved_essays">脑子进水指数分析</string><string name="info_success_login">登录成功，现在可以备份收藏的文章了。</string><string name="btn_list">藏文集</string><string name="info_no_essays_saved">至少收藏一篇文章\n才能查看统计图表。</string><string name="dialog_title_del_listicle">删除文集？</string><string name="hint_pw">登录密码</string><string name="hint_email">登录邮箱</string><string name="attach_water">脑子进水指数=</string><string name="info_fail_to_load_webpage">载入网页失败</string><string name="info_help">以下网站点开文章页面\n可直接保存全文到本地</string><string name="info_listicle_name_empty">文集名不能为空</string><string name="dialog_title_set_tags_filter">设置标签过滤词</string><string name="info_fail_save_bm">内存不足无法保存图片并分享</string><string name="attach_default_listicle_item">待加入文集的文章</string><string name="dialog_title_set_upload_privacy">设置备份文章是否公开</string><string name="dialog_title_login_taguage">用Taguage帐号登录</string><string name="ptitle_essay_list">所有文章</string><string name="attach_curreont_account">当前帐号为：x，点击这里可以重新登录切换帐号。</string><string name="attach_auth">由 思维点藏 APP分析生成</string><string name="ptitle_options">使用设置</string><string name="info_fail_in_login">登录失败，请再次尝试。</string><string name="dialog_title_create_listicle">创建文集</string><string name="dialog_title_set_message">设置推送消息</string><string name="info_data_error">数据库开小差了，再试一遍就好~</string><string name="hint_filter">设置过滤词，用逗号隔开。设置后备份时不会出现这些标签。</string><string name="btn_ok">确定</string><string name="attach_occupied">被x占领</string><string name="info_listicle_name_duplicate">不能创建重复的文集名</string><string name="attach_manual_upload">手工备份</string><string name="ptitle_stat">统计分析</string><string name="info_auto_upload">文章自动上传备份中。</string><string name="hint_add_listicle">文集名</string><string name="info_saved_to_list">已保存至“藏列表”\n可离线阅读</string><string name="dialog_title_set_upload_tags">设置备份时自动添加标签的方式</string><string name="btn_add_listicle">创建文集</string><string name="info_fail_backup">上传失败，请稍后再尝试。</string><string name="info_no_supported_url">没有发现本软件支持的url</string><string name="info_listicle_name_invalid">文集名只能为中文、数字、下划线或英文字母</string><string name="info_success_backup">上传成功，登录taguage.com即可查看。</string><string name="btn_cancel">取消</string><string name="btn_options">藏设置</string><string name="attach_water_down1">政经 + 高冷 + 0.4x鸡汤+</string><string name="dialog_title_confirm_to_clear">删除所有内容？</string><string name="ptitle_listicle">收藏文集</string><string name="attach_water_down2">0.7x吃货+文艺+二次元</string><string name="ptitle_links">推荐网站</string><string name="attach_tags_filters">添加过滤词</string><string name="hello_world"/><string name="dialog_title_save_into_listicle">将文章加入文集</string><string name="attach_judgement">鉴\n定</string><string name="action_settings">Settings</string><string name="btn_stats">藏分析</string><string name="app_name">思维点藏</string><string name="info_fail_to_get_data">获取数据失败，请稍候再试</string><string name="ptitle_tutorial">新手入门</string><string name="dialog_title_set_upload_source">备份时标签是否包含来源网站</string><string name="info_float_open">关闭app后，悬浮按钮\n将出现在屏幕左上方。</string><string name="market360">独家首发</string><string name="dialog_title_set_upload_mode">设置备份上传方式</string><string name="info_invalid_email">邮箱格式有误</string><string name="info_share_image">分享图片</string><string name="ptitle_backup">备份上传设置</string><string name="attach_water_up1">二逼 + 0.6x鸡汤</string><string name="info_not_support_this_page">仅支持保存文章页面内容或指定频道</string><string name="attach_water_up2">+0.3x吃货+装逼</string><string name="info_invalid_link">抱歉，不支持该网页链接</string><string name="dialog_title_edit_listicle">编辑文集名</string><string name="ptitle_read">浏览网页</string><string name="attach_no_account">没有Taguage帐号？</string></file><file path="D:\p_android\SiteCrawl\res\values\styles.xml" qualifiers=""><style name="AnimationDialog" parent="android:style/Theme.Translucent">
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:backgroundDimAmount">0.7</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:colorBackground">@null</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+    </style><style name="MyActionBar" parent="@android:style/Widget.DeviceDefault.Light.ActionBar">
+        <item name="android:background">@color/BASE</item>
+        <item name="android:backgroundSplit">@color/BASE</item>        
+        <item name="android:titleTextStyle">@style/MyActionBar.TitleTextStyle</item>        
+        <item name="android:subtitleTextStyle">@style/MyActionBar.subtitleTextStyle</item>      
+    </style><style name="MyActionBar.TitleTextStyle" parent="@android:style/TextAppearance.Holo.Widget.ActionBar.Title">
+        <item name="android:textColor">@color/BaseOrange</item>
+    </style><style name="MDialog" parent="@android:style/Theme.Holo.Dialog">
+        <item name="android:disabledAlpha">0.5</item>
+        <item name="android:backgroundDimAmount">0.7</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowAnimationStyle">@style/AnimationDialog</item>
+        <item name="android:windowSoftInputMode">stateUnspecified|adjustPan</item>
+        <item name="android:windowBackground">@color/BASE</item>
+        <item name="android:colorBackground">@null</item>
+        <item name="android:textColor">#000000</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+    </style><style name="AppTheme" parent="AppBaseTheme">
+        <item name="android:disabledAlpha">0.5</item>
+        <item name="android:windowContentOverlay">@null</item>       	
+        <item name="android:windowIsTranslucent">false</item>
+        <item name="android:windowBackground">@android:color/background_light</item>
+        <item name="android:homeAsUpIndicator">@drawable/arrowleft</item>
+        <item name="android:screenOrientation">portrait</item>
+        <item name="android:actionBarStyle">@style/MyActionBar</item>  
+        
+    </style><style name="MDialogNoTitle" parent="android:style/Theme.Holo.Dialog">
+        <item name="android:disabledAlpha">0.5</item>
+        <item name="android:backgroundDimAmount">0.7</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowAnimationStyle">@style/AnimationDialog</item>
+        <item name="android:windowSoftInputMode">stateUnspecified|adjustPan</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:colorBackground">@null</item>
+        <item name="android:textColor">#000000</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+    </style><style name="MyActionBar.subtitleTextStyle" parent="@android:style/TextAppearance.Holo.Widget.ActionBar.Title">
+        <item name="android:textColor">#000000</item>
+    </style><style name="DialogButton" parent="@android:style/Widget.Button">
+        <item name="android:background">@drawable/bg_btn</item>
+        <item name="android:paddingLeft">6dp</item>
+        <item name="android:paddingRight">6dp</item>
+        <item name="android:textColor">#000000</item>
+        <item name="android:textSize">16sp</item>
+    </style><style name="MEditText" parent="@android:style/Widget.EditText">
+        <item name="android:background">#ffffff</item>      
+        <item name="android:textColor">@color/BaseGray</item>
+        <item name="android:textSize">16sp</item>  
+        <item name="android:paddingLeft">6dp</item>
+        <item name="android:paddingRight">6dp</item>
+    </style><style name="LoadingDialog" parent="android:style/Theme.Translucent">
+        <item name="android:disabledAlpha">0.5</item>
+        <item name="android:backgroundDimAmount">0.7</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowAnimationStyle">@style/AnimationDialog</item>
+        <item name="android:windowSoftInputMode">stateUnspecified|adjustPan</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:colorBackground">@null</item>
+        <item name="android:textColor">@color/BaseGray</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+    </style><style name="AppBaseTheme" parent="android:Theme.Holo.Light"/></file><file path="D:\p_android\SiteCrawl\res\values\style_text.xml" qualifiers=""><style name="TF.12.BaseGray" parent="@android:style/TextAppearance.Medium">
+        <item name="android:textColor">@color/BaseGray</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style><style name="TF.20.BaseOrange" parent="TF.12.BaseOrange">
+        <item name="android:textSize">20sp</item>
+    </style><style name="TF.30.BaseOrange" parent="TF.12.BaseOrange">
+        <item name="android:textSize">30sp</item>
+    </style><style name="TF.12.W.BaseOrange" parent="TF.12.BaseOrange">
+        <item name="android:layout_width">wrap_content</item>
+    </style><style name="TF.18.BaseGray" parent="TF.12.BaseGray">
+        <item name="android:textSize">18sp</item>
+    </style><style name="TF.14.W.BaseGray" parent="TF.14.BaseGray">
+        <item name="android:layout_width">wrap_content</item>
+    </style><style name="TF.18.W.BaseOrange" parent="TF.18.BaseOrange">
+        <item name="android:layout_width">wrap_content</item>
+    </style><style name="TF.18.W.BaseGray" parent="TF.18.BaseGray">
+        <item name="android:layout_width">wrap_content</item>
+    </style><style name="TF.24.W.BaseGray" parent="TF.24.BaseGray">
+        <item name="android:layout_width">wrap_content</item>
+    </style><style name="TF.26.BaseGray" parent="TF.12.BaseGray">
+        <item name="android:textSize">26sp</item>
+    </style><style name="TF.28.W.BaseGray" parent="TF.28.BaseGray">
+        <item name="android:layout_width">wrap_content</item>
+    </style><style name="TF.30.W.BaseGray" parent="TF.30.BaseGray">
+        <item name="android:layout_width">wrap_content</item>
+    </style><style name="TF.28.W.BaseOrange" parent="TF.28.BaseOrange">
+        <item name="android:layout_width">wrap_content</item>
+    </style><style name="TF.20.BaseGray" parent="TF.12.BaseGray">
+        <item name="android:textSize">20sp</item>
+    </style><style name="TF.20.W.BaseGray" parent="TF.20.BaseGray">
+        <item name="android:layout_width">wrap_content</item>
+    </style><style name="TF.18.BaseOrange" parent="TF.12.BaseOrange">
+        <item name="android:textSize">18sp</item>
+    </style><style name="TF.14.BaseGray" parent="TF.12.BaseGray">
+        <item name="android:textSize">14sp</item>
+    </style><style name="TF.26.W.BaseOrange" parent="TF.26.BaseOrange">
+        <item name="android:layout_width">wrap_content</item>
+    </style><style name="TF.16.BaseGray" parent="TF.12.BaseGray">
+        <item name="android:textSize">16sp</item>
+    </style><style name="TF.28.BaseOrange" parent="TF.12.BaseOrange">
+        <item name="android:textSize">28sp</item>
+    </style><style name="TF.14.BaseOrange" parent="TF.12.BaseOrange">
+        <item name="android:textSize">14sp</item>
+    </style><style name="TF.24.BaseOrange" parent="TF.12.BaseOrange">
+        <item name="android:textSize">24sp</item>
+    </style><style name="TF.22.W.BaseOrange" parent="TF.22.BaseOrange">
+        <item name="android:layout_width">wrap_content</item>
+    </style><style name="TF.24.W.BaseOrange" parent="TF.24.BaseOrange">
+        <item name="android:layout_width">wrap_content</item>
+    </style><style name="TF.28.BaseGray" parent="TF.12.BaseGray">
+        <item name="android:textSize">28sp</item>
+    </style><style name="TF.26.W.BaseGray" parent="TF.26.BaseGray">
+        <item name="android:layout_width">wrap_content</item>
+    </style><style name="TF.16.W.BaseGray" parent="TF.16.BaseGray">
+        <item name="android:layout_width">wrap_content</item>
+    </style><style name="TF.22.BaseGray" parent="TF.12.BaseGray">
+        <item name="android:textSize">22sp</item>
+    </style><style name="TF.20.W.BaseOrange" parent="TF.20.BaseOrange">
+        <item name="android:layout_width">wrap_content</item>
+    </style><style name="TF.22.W.BaseGray" parent="TF.22.BaseGray">
+        <item name="android:layout_width">wrap_content</item>
+    </style><style name="TF.26.BaseOrange" parent="TF.12.BaseOrange">
+        <item name="android:textSize">26sp</item>
+    </style><style name="TF.12.W.BaseGray" parent="TF.12.BaseGray">
+        <item name="android:layout_width">wrap_content</item>
+    </style><style name="TF.30.W.BaseOrange" parent="TF.30.BaseOrange">
+        <item name="android:layout_width">wrap_content</item>
+    </style><style name="TF.24.BaseGray" parent="TF.12.BaseGray">
+        <item name="android:textSize">24sp</item>
+    </style><style name="TF.16.W.BaseOrange" parent="TF.16.BaseOrange">
+        <item name="android:layout_width">wrap_content</item>
+    </style><style name="TF.22.BaseOrange" parent="TF.12.BaseOrange">
+        <item name="android:textSize">22sp</item>
+    </style><style name="TF.16.BaseOrange" parent="TF.12.BaseOrange">
+        <item name="android:textSize">16sp</item>
+    </style><style name="TF.30.BaseGray" parent="TF.12.BaseGray">
+        <item name="android:textSize">30sp</item>
+    </style><style name="TF.14.W.BaseOrange" parent="TF.14.BaseOrange">
+        <item name="android:layout_width">wrap_content</item>
+    </style><style name="TF.12.BaseOrange" parent="@android:style/TextAppearance.Medium">
+        <item name="android:textColor">@color/BaseOrange</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style></file><file path="D:\p_android\SiteCrawl\res\values\swipelistview__attrs.xml" qualifiers=""><declare-styleable name="SwipeListView">
+        <attr format="boolean" name="swipeOpenOnLongPress"/>
+        <attr format="integer" name="swipeAnimationTime"/>
+        <attr format="dimension" name="swipeOffsetLeft"/>
+        <attr format="dimension" name="swipeOffsetRight"/>
+        <attr format="boolean" name="swipeCloseAllItemsWhenMoveList"/>
+        <attr format="reference" name="swipeFrontView"/>
+        <attr format="reference" name="swipeBackView"/>
+        <attr format="enum" name="swipeMode">
+            <enum name="none" value="0"/>
+            <enum name="both" value="1"/>
+            <enum name="right" value="2"/>
+            <enum name="left" value="3"/>
+        </attr>
+        <attr format="enum" name="swipeActionLeft">
+            <enum name="reveal" value="0"/>
+            <enum name="dismiss" value="1"/>
+            <enum name="choice" value="2"/>
+        </attr>
+        <attr format="enum" name="swipeActionRight">
+            <enum name="reveal" value="0"/>
+            <enum name="dismiss" value="1"/>
+            <enum name="choice" value="2"/>
+        </attr>
+        <attr format="reference" name="swipeDrawableChecked"/>
+        <attr format="reference" name="swipeDrawableUnchecked"/>
+    </declare-styleable></file><file path="D:\p_android\SiteCrawl\res\values\umeng_common_strings.xml" qualifiers=""><string name="umeng_common_download_notification_prefix">Downloading: </string><string name="umeng_common_start_patch_notification">Patch start.</string><string name="umeng_common_icon">icon</string><string name="umeng_common_download_failed">Download Failed! </string><string name="umeng_common_action_cancel">Cancel</string><string name="umeng_common_info_interrupt">dowload interrupted.</string><string name="umeng_common_download_finish">Download finished,click to install it.</string><string name="umeng_common_action_pause">Pause</string><string name="umeng_common_action_info_exist">The app is already in downloading list.</string><string name="umeng_common_silent_download_finish">New version is ready,click to install it.</string><string name="umeng_common_network_break_alert">Please make sure you are connected to internet, download failed</string><string name="umeng_common_pause_notification_prefix">Pause: </string><string name="umeng_common_action_continue">Continue</string><string name="umeng_common_start_download_notification">Download start.</string><string name="umeng_common_patch_finish">Patch finished,click to install it.</string></file><file path="D:\p_android\SiteCrawl\res\values\umeng_update_string.xml" qualifiers=""><string name="UMNewVersion">Latest version: </string><string name="UMToast_IsUpdating">Updating....</string><string name="UMDialog_InstallAPK">The lastest version has been downloaded, install now ?</string><string name="UMUpdateSize">Update size: </string><string name="UMAppUpdate">App updating</string><string name="UMNotNow">Not now</string><string name="UMTargetSize">Target size: </string><string name="UMGprsCondition">(Warning: Not WIFI Condition)</string><string name="UMBreak_Network">Please make sure you are connected to internet,update failed</string><string name="UMIgnore">Ingore this</string><string name="UMUpdateNow">Update now</string><string name="UMUpdateTitle">New version found</string><string name="UMUpdateContent">Update Content</string><string name="UMUpdateCheck">2.4.2.20140520</string></file><file path="D:\p_android\SiteCrawl\res\values-sw720dp-land\dimens.xml" qualifiers="sw720dp-land"><dimen name="activity_horizontal_margin">128dp</dimen></file><file path="D:\p_android\SiteCrawl\res\values-v11\styles.xml" qualifiers="v11"><style name="AppBaseTheme" parent="android:Theme.Holo.Light">
+        <!-- API 11 theme customizations can go here. -->
+    </style></file><file path="D:\p_android\SiteCrawl\res\values-v14\styles.xml" qualifiers="v14"><style name="AppBaseTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        <!-- API 14 theme customizations can go here. -->
+    </style></file><file path="D:\p_android\SiteCrawl\res\values-v19\styles.xml" qualifiers="v19"><style name="AppTheme" parent="AppBaseTheme">
+        <item name="android:disabledAlpha">0.5</item>
+        <item name="android:windowContentOverlay">@null</item>       	
+        <item name="android:windowIsTranslucent">false</item>
+        <item name="android:windowBackground">@android:color/background_light</item>
+        <item name="android:homeAsUpIndicator">@drawable/arrowleft</item>
+        <item name="android:screenOrientation">portrait</item>
+        <item name="android:actionBarStyle">@style/MyActionBar</item>  
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="android:windowTranslucentNavigation">true</item>
+    </style><style name="LoadingDialog" parent="android:style/Theme.Translucent">
+        <item name="android:disabledAlpha">0.5</item>
+        <item name="android:backgroundDimAmount">0.7</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowAnimationStyle">@style/AnimationDialog</item>
+        <item name="android:windowSoftInputMode">stateUnspecified|adjustPan</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:colorBackground">@null</item>
+        <item name="android:textColor">@color/BaseGray</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+    </style><style name="DialogButton" parent="@android:style/Widget.Button">
+        <item name="android:background">@drawable/bg_btn</item>
+        <item name="android:paddingLeft">6dp</item>
+        <item name="android:paddingRight">6dp</item>
+        <item name="android:textColor">#000000</item>
+        <item name="android:textSize">16sp</item>
+    </style><style name="MEditText" parent="@android:style/Widget.EditText">
+        <item name="android:background">#ffffff</item>      
+        <item name="android:textColor">@color/BaseGray</item>
+        <item name="android:textSize">16sp</item>  
+        <item name="android:paddingLeft">6dp</item>
+        <item name="android:paddingRight">6dp</item>
+    </style><style name="AppBaseTheme" parent="android:Theme.Holo.Light"/><style name="MDialogNoTitle" parent="android:style/Theme.Holo.Dialog">
+        <item name="android:disabledAlpha">0.5</item>
+        <item name="android:backgroundDimAmount">0.7</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowAnimationStyle">@style/AnimationDialog</item>
+        <item name="android:windowSoftInputMode">stateUnspecified|adjustPan</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:colorBackground">@null</item>
+        <item name="android:textColor">#000000</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+    </style><style name="MDialog" parent="@android:style/Theme.Holo.Dialog">
+        <item name="android:disabledAlpha">0.5</item>
+        <item name="android:backgroundDimAmount">0.7</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowAnimationStyle">@style/AnimationDialog</item>
+        <item name="android:windowSoftInputMode">stateUnspecified|adjustPan</item>
+        <item name="android:windowBackground">@color/BASE</item>
+        <item name="android:colorBackground">@null</item>
+        <item name="android:textColor">#000000</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+    </style><style name="MyActionBar.subtitleTextStyle" parent="@android:style/TextAppearance.Holo.Widget.ActionBar.Title">
+        <item name="android:textColor">#000000</item>
+    </style><style name="MyActionBar.TitleTextStyle" parent="@android:style/TextAppearance.Holo.Widget.ActionBar.Title">
+        <item name="android:textColor">@color/BaseOrange</item>
+    </style><style name="AnimationDialog" parent="android:style/Theme.Translucent">
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:backgroundDimAmount">0.7</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:colorBackground">@null</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+    </style><style name="MyActionBar" parent="@android:style/Widget.DeviceDefault.Light.ActionBar">
+        <item name="android:background">@color/BASE</item>
+        <item name="android:backgroundSplit">@color/BASE</item>        
+        <item name="android:titleTextStyle">@style/MyActionBar.TitleTextStyle</item>        
+        <item name="android:subtitleTextStyle">@style/MyActionBar.subtitleTextStyle</item>      
+    </style></file><file path="D:\p_android\SiteCrawl\res\values-zh\umeng_common_strings.xml" qualifiers="zh"><string name="umeng_common_silent_download_finish">新版本已经准备好，请点击安装</string><string name="umeng_common_action_cancel">取消</string><string name="umeng_common_info_interrupt">下载出错啦，请检查网络后继续。</string><string name="umeng_common_download_notification_prefix">正在下载: </string><string name="umeng_common_patch_finish">更新完成，请点击安装</string><string name="umeng_common_download_failed">下载失败</string><string name="umeng_common_action_info_exist">正在下载中.</string><string name="umeng_common_network_break_alert">请连接网络后再尝试！</string><string name="umeng_common_start_patch_notification">正在更新安装包</string><string name="umeng_common_download_finish">下载完成，请点击安装</string><string name="umeng_common_action_pause">暂停</string><string name="umeng_common_pause_notification_prefix">暂停: </string><string name="umeng_common_start_download_notification">正在下载应用</string><string name="umeng_common_action_continue">继续</string></file><file path="D:\p_android\SiteCrawl\res\values-zh\umeng_update_string.xml" qualifiers="zh"><string name="UMUpdateNow">立即更新</string><string name="UMIgnore">忽略该版</string><string name="UMNotNow">以后再说</string><string name="UMBreak_Network">未联网</string><string name="UMUpdateSize">仅需要下载:</string><string name="UMToast_IsUpdating">正在更新中....</string><string name="UMNewVersion">最新版本: </string><string name="UMGprsCondition">（提示：非WIFI环境）</string><string name="UMTargetSize">新版本大小:</string><string name="UMAppUpdate">应用更新</string><string name="UMDialog_InstallAPK">最新版本已下载，是否安装？</string><string name="UMUpdateTitle">发现新版本</string><string name="UMUpdateContent">更新内容</string></file><file name="widget_provider_wide" path="D:\p_android\SiteCrawl\res\xml\widget_provider_wide.xml" qualifiers="" type="xml"/></source><source path="D:\p_android\SiteCrawl\build\generated\res\rs\debug"/><source path="D:\p_android\SiteCrawl\build\generated\res\generated\debug"/></dataSet><dataSet config="debug"><source path="D:\p_android\SiteCrawl\build-types\debug\res"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="SwipeListView"><attr format="boolean" name="swipeOpenOnLongPress"/><attr format="integer" name="swipeAnimationTime"/><attr format="dimension" name="swipeOffsetLeft"/><attr format="dimension" name="swipeOffsetRight"/><attr format="boolean" name="swipeCloseAllItemsWhenMoveList"/><attr format="reference" name="swipeFrontView"/><attr format="reference" name="swipeBackView"/><attr format="enum" name="swipeMode"><enum name="none" value="0"/><enum name="both" value="1"/><enum name="right" value="2"/><enum name="left" value="3"/></attr><attr format="enum" name="swipeActionLeft"><enum name="reveal" value="0"/><enum name="dismiss" value="1"/><enum name="choice" value="2"/></attr><attr format="enum" name="swipeActionRight"><enum name="reveal" value="0"/><enum name="dismiss" value="1"/><enum name="choice" value="2"/></attr><attr format="reference" name="swipeDrawableChecked"/><attr format="reference" name="swipeDrawableUnchecked"/></declare-styleable></configuration></mergedItems></merger>

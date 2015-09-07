@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:minHeight="180dp"
+    android:background="@color/BaseOrange"
+    android:gravity="center">
+    
+    <TextView 
+        android:id="@+id/tv_essay"
+        style="@style/TF.20.BaseGray"
+        android:textColor="@android:color/white"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:paddingTop="20dp"
+        android:paddingBottom="20dp"
+        android:gravity="center"
+        />
+    
+
+</RelativeLayout>
+<!-- From: file:/D:/p_android/SiteCrawl/res/layout/head_essays.xml -->

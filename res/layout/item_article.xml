@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:id="@+id/back"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#eee"
+        android:orientation="horizontal"
+        android:tag="back" >
+        
+        <ImageView
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:layout_height="32dp"/>
+        
+        <ImageView 
+            android:id="@+id/iv_listicle"
+            android:layout_gravity="center"
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:layout_height="32dp"
+            />
+
+        <ImageView
+            android:id="@+id/iv_upload"
+            android:layout_gravity="center"
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:layout_height="32dp"/>
+        
+        <ImageView
+            android:id="@+id/iv_del"
+            android:layout_gravity="center"
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:layout_height="32dp"/>
+        
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@id/front"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="@android:color/white"
+        android:padding="6dp" >
+
+        <TextView
+            android:id="@+id/tv_title"
+            style="@style/TF.18.BaseGray"
+            android:ellipsize="end"
+            android:gravity="center"
+            android:paddingBottom="6dp"
+            android:paddingTop="6dp"
+            android:singleLine="true" />
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+
+            <TextView
+                android:id="@+id/tv_source"
+                style="@style/TF.12.W.BaseOrange"
+                android:paddingBottom="6dp" />
+
+            <TextView
+                android:id="@+id/tv_time"
+                style="@style/TF.12.W.BaseGray"
+                android:layout_alignParentRight="true"
+                android:paddingBottom="6dp" />
+        </RelativeLayout>
+
+        <TextView
+            android:id="@+id/tv_abstract"
+            style="@style/TF.14.BaseGray"
+            android:paddingBottom="6dp" />
+    </LinearLayout>
+
+</FrameLayout>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">思维点藏</string>
+    <string name="hello_world"></string>
+    <string name="action_settings">Settings</string>
+    
+    <string name="btn_list">藏文集</string>
+    <string name="btn_options">藏设置</string>
+    <string name="btn_stats">藏分析</string>
+    <string name="btn_ok">确定</string>
+    <string name="btn_cancel">取消</string>
+    <string name="btn_add_listicle">创建文集</string>
+    
+    <string name="ptitle_preview">文章内容</string>
+    <string name="ptitle_listicle">收藏文集</string>
+    <string name="ptitle_essay_list">所有文章</string>
+    <string name="ptitle_links">推荐网站</string>
+    <string name="ptitle_tutorial">新手入门</string>
+    <string name="ptitle_read">浏览网页</string>
+    <string name="ptitle_options">使用设置</string>
+    <string name="ptitle_backup">备份上传设置</string>
+    <string name="ptitle_apps">思维大爆炸系列</string>
+    <string name="ptitle_stat">统计分析</string>
+    
+    <string name="dialog_title_login_taguage">用Taguage帐号登录</string>
+    <string name="dialog_title_set_upload_mode">设置备份上传方式</string>
+    <string name="dialog_title_set_upload_privacy">设置备份文章是否公开</string>
+    <string name="dialog_title_set_upload_tags">设置备份时自动添加标签的方式</string>
+    <string name="dialog_title_set_upload_source">备份时标签是否包含来源网站</string>
+    <string name="dialog_title_set_tags_filter">设置标签过滤词</string>
+    <string name="dialog_title_set_message">设置推送消息</string>
+    <string name="dialog_title_confirm_to_clear">删除所有内容？</string>
+    <string name="dialog_title_save_into_listicle">将文章加入文集</string>
+    <string name="dialog_title_create_listicle">创建文集</string>
+    <string name="dialog_title_edit_listicle">编辑文集名</string>
+    <string name="dialog_title_del_listicle">删除文集？</string>
+    
+    <string name="info_invalid_link">抱歉，不支持该网页链接</string>
+    <string name="info_fail_to_get_data">获取数据失败，请稍候再试</string>
+    <string name="info_help">以下网站点开文章页面\n可直接保存全文到本地</string>
+    <string name="info_fail_to_load_webpage">载入网页失败</string>
+    <string name="info_no_supported_url">没有发现本软件支持的url</string>
+    <string name="info_not_support_this_page">仅支持保存文章页面内容或指定频道</string>
+    <string name="info_fail_in_login">登录失败，请再次尝试。</string>
+	<string name="info_invalid_email">邮箱格式有误</string>
+	<string name="info_success_login">登录成功，现在可以备份收藏的文章了。</string>
+	<string name="info_success_backup">上传成功，登录taguage.com即可查看。</string>
+	<string name="info_fail_backup">上传失败，请稍后再尝试。</string>
+	<string name="info_auto_upload">文章自动上传备份中。</string>
+	<string name="info_saved_to_list">已保存至“藏列表”\n可离线阅读</string>
+	<string name="info_no_essays_saved">至少收藏一篇文章\n才能查看统计图表。</string>
+	<string name="info_float_open">关闭app后，悬浮按钮\n将出现在屏幕左上方。</string>
+	<string name="info_fail_save_bm">内存不足无法保存图片并分享</string>
+	<string name="info_share_image">分享图片</string>
+	<string name="info_data_error">数据库开小差了，再试一遍就好~</string>
+	<string name="info_listicle_name_empty">文集名不能为空</string>
+	<string name="info_listicle_name_invalid">文集名只能为中文、数字、下划线或英文字母</string>
+	<string name="info_listicle_name_duplicate">不能创建重复的文集名</string>
+    
+    <string name="hint_input_link">请录推荐网站或微信文章网址</string>
+    <string name="hint_email">登录邮箱</string>
+    <string name="hint_pw">登录密码</string>
+    <string name="hint_filter">设置过滤词，用逗号隔开。设置后备份时不会出现这些标签。</string>
+    <string name="hint_add_listicle">文集名</string>
+    
+    <string name="attach_no_account">没有Taguage帐号？</string>
+	<string name="attach_curreont_account">当前帐号为：x，点击这里可以重新登录切换帐号。</string>
+	<string name="attach_manual_upload">手工备份</string>
+	<string name="attach_tags_filters">添加过滤词</string>
+	<string name="attach_occupied">被x占领</string>
+	<string name="attach_water">脑子进水指数=</string>
+	<string name="attach_water_up1">二逼 + 0.6x鸡汤</string>
+	<string name="attach_water_up2">+0.3x吃货+装逼</string>
+	<string name="attach_water_down1">政经 + 高冷 + 0.4x鸡汤+</string>
+	<string name="attach_water_down2">0.7x吃货+文艺+二次元</string>
+	<string name="attach_auth">由 思维点藏 APP分析生成</string>
+	<string name="attach_title_saved_essays">脑子进水指数分析</string>
+	<string name="attach_judgement">鉴\n定</string>
+	<string name="market360">独家首发</string>
+	<string name="attach_default_listicle_item">待加入文集的文章</string>
+
+</resources>

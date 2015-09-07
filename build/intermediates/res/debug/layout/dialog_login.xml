@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp"
+    android:orientation="vertical" >
+    
+    <AutoCompleteTextView 
+        android:id="@+id/et_email"
+        style="@style/TF.16.BaseGray"
+        android:hint="@string/hint_email"
+        />
+    <EditText 
+        android:id="@+id/et_pw"
+        android:inputType="textPassword"
+        style="@style/TF.16.BaseGray"
+        android:hint="@string/hint_pw"
+        />
+	<TextView 
+	    android:id="@+id/tv_register"
+	    android:text="@string/attach_no_account"
+	    style="@style/TF.14.BaseGray"
+	    android:padding="6dp"
+	    />
+	<LinearLayout 
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        >
+        <Button
+            android:id="@+id/btn_ok"
+            style="@style/DialogButton"
+            android:layout_width="0sp"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="6dp"
+            android:layout_weight="1"
+            android:text="@string/btn_ok" />
+
+        <Button
+            android:id="@+id/btn_cancel"
+            style="@style/DialogButton"
+            android:layout_width="0sp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="6dp"
+            android:layout_weight="1"
+            android:text="@string/btn_cancel" />
+        
+    </LinearLayout>
+</LinearLayout>
+<!-- From: file:/D:/p_android/SiteCrawl/res/layout/dialog_login.xml -->

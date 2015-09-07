@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="result_words">
+        <item>70%-100%  脑这样还闹哪样 \n赶紧搭档芙蓉姐姐竞选\n美国总统吧</item>
+		<item>50%-70%   “满脑肥肠”\n啥意思 \n朋友啊朋友你可曾想起了我</item>
+		<item>30%-50%  “脑积水” \n…请立即找寻“他瓜哥”\n教授给蒸发蒸发升华升华 </item>
+		<item>20%-30%  \n如此水! so water？</item>
+		<item>10%-20% \n恭喜你洗脱了“水货”嫌疑</item>
+		<item>0%-10% \n绝对点你个赞！\n真心赞你个头！</item>
+    </string-array>
+    
+    <string-array name="initial_listicles">
+        <item>最值得阅读的100篇文章</item>
+        <item>冷知识合集</item>
+        <item>小短文大故事</item>
+    </string-array>
+    
+    <string-array name="menu_options">
+        <item>设置Taguage账户</item>
+        <item>备份上传设置</item>
+        <item>消息设置</item>
+        <item>文集设置</item>
+        <item>悬浮窗口</item>
+        <item>清空所有</item>
+        <item>新手入门</item>
+        <item>思维大爆炸系列软件</item>
+    </string-array>
+    
+    <string-array name="initial_submenu_options">
+        <item>用于备份和自动整理你收藏的文章</item>
+        <item>备份点藏的文章（需登录Taguage）</item>
+        <item>接收推送消息</item>
+        <item>保存文章后自动弹出文集选择对话框</item>
+        <item>关闭</item>
+        <item>删除所有收藏文章（慎用）</item>
+        <item>新手必看</item>
+        <item>“掌”控思维必备</item>
+    </string-array>
+    
+    <string-array name="float_options">
+        <item>关闭</item>
+        <item>开启</item>
+    </string-array>
+    
+    <string-array name="message_options">
+        <item>接收推送消息</item>
+        <item>不接收推送消息</item>
+    </string-array>
+    
+    <string-array name="listicle_options">
+        <item>保存文章后自动弹出文集选择对话框</item>
+        <item>保存文章后不弹出文集选择对话框</item>
+    </string-array>
+    
+    <string-array name="upload_mode">
+        <item>自动上传</item>
+        <item>手工上传</item>
+    </string-array>
+    
+    <string-array name="upload_privacy">
+        <item>公开上传文章</item>
+        <item>隐藏上传文章</item>
+    </string-array>
+    
+    <string-array name="upload_tag">
+        <item>智能提取标签</item>
+        <item>不使用智能标签</item>
+    </string-array>
+    
+    <string-array name="upload_source">
+        <item>附加来源网站</item>
+        <item>不要添加来源网站</item>
+    </string-array>
+    
+    <string-array name="backup_params">
+        <item>备份上传方式</item>
+        <item>上传文章是否公开</item>
+        <item>备份时是否智能提取标签</item>
+        <item>备份时标签是否包含来源网站</item>
+        <item>备份时智能添加标签过滤词</item>
+    </string-array>
+    
+    <string-array name="app_names">
+        <item>Taguage（他瓜哥）</item>
+        <item>思维简图</item>
+        <item>思维点藏</item>
+        <item>建筑史复习</item>
+        <item>记数专家</item>
+        <item>扑克记忆大师</item>
+        <item>麻将记忆大师</item>
+        <item>选择日记</item>
+    </string-array>
+    
+    <string-array name="app_summaries">
+        <item>用思维地图的方式自动为你整理保存在本软件中的文字资料。</item>
+        <item>用！就能创建思维导图。手机上最快的思维导图软件。</item>
+        <item>给一个链接就帮你把好文章全文保存到本地收藏。</item>
+        <item>建筑史考研的复习工具，收录老八校多年考研真题。</item>
+        <item>帮助记忆术练习者管理自己的数字桩。</item>
+        <item>通过数字桩帮助记忆扑克。</item>
+        <item>通过数字桩帮助记忆麻将。</item>
+        <item>选择困难症的解药。</item>
+    </string-array>
+</resources>

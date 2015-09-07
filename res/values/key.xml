@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <!-- user related -->
+    <string name="key_user_local_pass">key_user_local_pass</string>
+    <string name="key_dont_send_message">key_dont_send_message</string>
+    <string name="key_data_ver">key_data_ver</string>
+    <string name="key_open_float_window">key_open_float_window</string>
+    <string name="key_backup_manual">key_backup_manual</string>
+    <string name="key_backup_private">key_backup_private</string>
+    <string name="key_backup_simple_tag">key_backup_simple_tag</string>
+    <string name="key_backup_source">key_backup_source</string>
+    <string name="key_backup_filter">key_backup_filter</string>
+    <string name="key_hv_initial_listicle">key_hv_initial_listicle</string>
+    <string name="key_no_listicle_dialog">key_no_listicle_dialog</string>
+    
+    <string name="key_taguage_ac">key_taguage_ac</string>
+    <string name="key_taguage_pw">key_taguage_pw</string>
+    <string name="key_taguage_token">key_taguage_token</string>
+    <string name="key_taguage_nick">key_taguage_nick</string>
+    <string name="key_taguage_uid">key_taguage_uid</string>
+    <string name="key_taguage_expire">key_taguage_expire</string>
+    
+    <string name="key_taguage_used_emails">key_taguage_used_emails</string>
+    
+    <!-- tutorial related -->
+    <string name="key_tutorial_intro">key_tutorial_intro</string>
+    <string name="key_tutorial_home">key_tutorial_home</string> 
+    <string name="key_tutorial_sitelist">key_tutorial_sitelist</string> 
+    <string name="key_tutorial_essaylist">key_tutorial_essaylist</string> 
+    <string name="key_tutorial_essaylist_no_cont">key_tutorial_essaylist_no_cont</string>    
+    <string name="key_tutorial_listicle">key_tutorial_listicle</string>
+
+    
+    
+</resources>
